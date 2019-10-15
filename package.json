@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hamdan77/nodeRestApi/issues"
   },
-  "homepage": "https://github.com/hamdan77/nodeRestApi#readme"
+  "homepage": "https://github.com/hamdan77/nodeRestApi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
